@@ -1,0 +1,1 @@
+Program creates and stores jobs in a link list. Applicants are allowed to peruse available jobs and apply for jobs. Recruiters are allowed to create and delete jobs, reviewers rate applicants and references are able to submit comments on applicants.
